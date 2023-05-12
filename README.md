@@ -28,3 +28,26 @@ Response:
 
 ```
 
+
+Body:
+
+```
+{
+	"generatePerson": [
+		"firstName", "lastName", "age"
+	]
+}
+
+```
+
+Response:
+
+```
+
+{
+	"firstName": "David",
+	"lastName": "Lee",
+	"age": 25
+}
+
+```
